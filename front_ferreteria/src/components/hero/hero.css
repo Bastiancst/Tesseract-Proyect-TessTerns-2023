@@ -1,0 +1,13 @@
+#btn{
+    align-items: center;
+}
+
+#img{
+    align-items: center;
+}
+
+#container{
+    margin: 0 auto;
+    position: relative;
+    left: 10vh;
+}

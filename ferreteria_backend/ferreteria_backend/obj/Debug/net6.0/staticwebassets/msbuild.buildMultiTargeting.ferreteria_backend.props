@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ferreteria_backend.props" />
+</Project>

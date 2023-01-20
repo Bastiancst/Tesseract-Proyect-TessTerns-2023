@@ -1,0 +1,21 @@
+#main{
+    background-color: #282A3A;
+    border: 0.6vh solid black;
+}
+
+#title, #description, #price{
+    color: white;
+}
+
+#title{
+    font-size: 2em;
+}
+
+#price{
+    font-size: 1.3em;
+}
+
+#buy-button{
+    background-color: greenyellow;
+    color: black;
+}
